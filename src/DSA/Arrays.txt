@@ -1,0 +1,29 @@
+Find the Maximum Element: Given an array of integers, find the largest element in the array.
+
+Find the Minimum Element: Given an array of integers, find the smallest element in the array.
+
+Array Sum: Given an array of integers, find the sum of all elements in the array.
+
+Reverse an Array: Given an array of elements, reverse the elements in the array (in-place or by creating a new array).
+
+Count Even and Odd Numbers: Given an array of integers, count the number of even and odd numbers in the array.
+
+Find Duplicate Elements: Given an array of integers, find and print any duplicate elements present in the array.
+
+Remove Duplicates: Given an array of integers with duplicate elements, remove duplicates and return a new array without duplicates.
+
+Find the Second Largest Element: Given an array of integers, find the second largest element in the array.
+
+Find the Kth Smallest Element: Given an array of integers, find the Kth smallest element in the array.
+
+Merge Two Sorted Arrays: Given two sorted arrays, merge them into a single sorted array.
+
+Rotate Array: Given an array of elements, rotate the array to the left or right by a given number of positions.
+
+Search in a Sorted Array: Given a sorted array of integers, perform a binary search to find a specific element in the array.
+
+Check if Array is Palindrome: Given an array of elements, check if it is a palindrome (reads the same forwards and backwards).
+
+Count Frequency of Elements: Given an array of integers, count the frequency of each element in the array.
+
+Find Maximum Subarray Sum: Given an array of integers, find the subarray with the largest sum (using Kadane's algorithm).
